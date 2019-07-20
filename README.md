@@ -1,7 +1,5 @@
 # CommonLibrary
 
-书籍: 
-
 ## 常用和参考的一些库
 
 1, Blankj/AndroidUtilCode
