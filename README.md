@@ -1,41 +1,5 @@
 # CommonLibrary
 
-黑客，测试者和安全研究人员的各种精彩列表的集合
-https://github.com/Hack-with-Github/Awesome-Hacking.git
-
-Android 开源项目分类汇总，更全更新可见
-https://github.com/Trinea/android-open-project.git
-
-在Android和iOS，Web和React Native上本地渲染After Effects动画
-https://github.com/airbnb/lottie-android.git
-
-Android的全新内容？从这里开始。
-https://github.com/codepath/android_guides.git
-
-掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
-https://github.com/xitu/gold-miner.git
-
-程序员简历模板系列
-https://github.com/geekcompany/ResumeSample.git
-
-Android开发的最佳实践
-https://github.com/futurice/android-best-practices.git
-
-NativeScript是一个开源框架，用于使用JavaScript构建真正的本机移动应用程序
-https://github.com/NativeScript/NativeScript.git
-
-桌面/ Android / HTML5 / iOS Java游戏开发框架
-https://github.com/libgdx/libgdx.git
-
-Stetho是Android应用程序的调试桥梁，支持强大的Chrome开发者工具等等。
-https://github.com/facebook/stetho.git
-
-Android官方培训课程中文版
-https://github.com/kesenhoo/android-training-course-in-chinese.git
-
-【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
-https://github.com/hehonghui/android-tech-frontier.git
-
 ## 常用和参考的一些库
 
 googlesamples/android-architecture
@@ -51,6 +15,8 @@ flutter/flutter
 https://github.com/flutter/flutter.git
 Solido/awesome-flutter
 https://github.com/Solido/awesome-flutter.git
+flutter/plugins
+https://github.com/flutter/plugins.git
 
 square/okhttp
 https://github.com/square/okhttp.git
@@ -60,6 +26,9 @@ https://github.com/square/retrofit.git
 
 square/leakcanary(LeakCanary是Android的内存泄漏检测库。)
 https://github.com/square/leakcanary.git
+
+square/dagger
+https://github.com/square/dagger.git
 
 bumptech/glide
 https://github.com/bumptech/glide.git
@@ -94,6 +63,9 @@ https://github.com/alibaba/ARouter.git
 alibaba/vlayout
 https://github.com/alibaba/vlayout.git
 
+alibaba/AndFix
+https://github.com/alibaba/AndFix.git
+
 ReactiveX/RxAndroid
 https://github.com/ReactiveX/RxAndroid.git
 
@@ -117,6 +89,8 @@ https://github.com/Kotlin/anko.git
 
 Tencent/tinker
 https://github.com/Tencent/tinker.git
+Tencent/MMKV
+https://github.com/Tencent/MMKV.git
 
 lgvalle/Material-Animations
 https://github.com/lgvalle/Material-Animations.git
@@ -129,6 +103,8 @@ https://github.com/greenrobot/greenDAO.git
 
 orhanobut/logger
 https://github.com/orhanobut/logger.git
+JakeWharton/timber
+https://github.com/JakeWharton/timber.git
 
 daimajia/AndroidSwipeLayout
 https://github.com/daimajia/AndroidSwipeLayout.git
@@ -138,6 +114,9 @@ https://github.com/jfeinstein10/SlidingMenu.git
 
 CarGuo/GSYVideoPlayer
 https://github.com/CarGuo/GSYVideoPlayer.git
+
+lipangit/JiaoZiVideoPlayer
+https://github.com/lipangit/JiaoZiVideoPlayer.git
 
 daimajia/AndroidViewAnimations
 https://github.com/daimajia/AndroidViewAnimations.git
@@ -162,5 +141,108 @@ https://github.com/zhihu/Matisse.git
 
 liaohuqiu/android-Ultra-Pull-To-Refresh(参考)
 https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh.git
+ksoichiro/Android-ObservableScrollView(参考)
+https://github.com/ksoichiro/Android-ObservableScrollView.git
+pedant/sweet-alert-dialog(参考)
+https://github.com/pedant/sweet-alert-dialog.git
 
 Tamsiree/RxTool
+https://github.com/Tamsiree/RxTool.git
+
+wasabeef/recyclerview-animators
+https://github.com/wasabeef/recyclerview-animators.git
+
+permissions-dispatcher/PermissionsDispatcher
+https://github.com/permissions-dispatcher/PermissionsDispatcher.git
+tbruyelle/RxPermissions
+https://github.com/tbruyelle/RxPermissions.git
+googlesamples/easypermissions
+https://github.com/googlesamples/easypermissions.git
+
+Yalantis/uCrop(适用于Android的图像裁剪库)
+https://github.com/Yalantis/uCrop.git
+
+H07000223/FlycoTabLayout
+https://github.com/H07000223/FlycoTabLayout.git
+
+YoKeyword/Fragmentation
+https://github.com/YoKeyword/Fragmentation.git
+
+81813780/AVLoadingIndicatorView
+https://github.com/81813780/AVLoadingIndicatorView.git
+ybq/Android-SpinKit
+https://github.com/ybq/Android-SpinKit.git
+
+lingochamp/FileDownloader
+https://github.com/lingochamp/FileDownloader.git
+
+youth5201314/banner
+https://github.com/youth5201314/banner.git
+AppIntro/AppIntro
+https://github.com/AppIntro/AppIntro.git
+
+Tencent/QMUI_Android(提高 Android UI 开发效率的 UI 库)
+https://github.com/Tencent/QMUI_Android.git
+
+JessYanCoding/MVPArms
+https://github.com/JessYanCoding/MVPArms.git
+JessYanCoding/AndroidAutoSize
+https://github.com/JessYanCoding/AndroidAutoSize.git
+
+didi/DoraemonKit(简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。)
+https://github.com/didi/DoraemonKit.git
+
+InflationX/Calligraphy(Android中的自定义字体简单方法)
+https://github.com/InflationX/Calligraphy.git
+
+wasabeef/glide-transformations(一个Android转换库，为Glide提供各种图像转换。)
+https://github.com/wasabeef/glide-transformations.git
+
+koral--/android-gif-drawable
+https://github.com/koral--/android-gif-drawable.git
+
+laobie/StatusBarUtil
+https://github.com/laobie/StatusBarUtil.git
+gyf-dev/ImmersionBar
+https://github.com/gyf-dev/ImmersionBar.git
+
+didi/VirtualAPK
+https://github.com/didi/VirtualAPK.git
+
+kaushikgopal/RxJava-Android-Samples
+https://github.com/kaushikgopal/RxJava-Android-Samples.git
+
+cymcsg/UltimateRecyclerView
+https://github.com/cymcsg/UltimateRecyclerView.git
+
+alibaba/atlas
+https://github.com/alibaba/atlas.git
+
+trello/RxLifecycle
+https://github.com/trello/RxLifecycle.git
+
+trello/victor
+https://github.com/trello/victor.git
+
+trello/android-floating-action-button
+https://github.com/trello/android-floating-action-button.git
+
+daniulive/SmarterStreaming
+https://github.com/daniulive/SmarterStreaming.git
+
+lzyzsd/JsBridge
+https://github.com/lzyzsd/JsBridge.git
+
+LuckSiege/PictureSelector
+https://github.com/LuckSiege/PictureSelector.git
+crazycodeboy/TakePhoto
+https://github.com/crazycodeboy/TakePhoto.git
+
+LitePalFramework/LitePal(一个Android库，使开发人员使用SQLite数据库非常容易。)
+https://github.com/LitePalFramework/LitePal.git
+
+florent37/MaterialViewPager
+https://github.com/florent37/MaterialViewPager.git
+
+bilibili/DanmakuFlameMaster
+https://github.com/bilibili/DanmakuFlameMaster.git
