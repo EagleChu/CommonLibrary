@@ -4,21 +4,17 @@
 
 #### 必备库
 
-[square/okhttp](https://github.com/square/okhttp.git), [square/retrofit](https://github.com/square/retrofit.git)
-[bumptech/glide](https://github.com/bumptech/glide.git), [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife.git)
-[alibaba/fastjson](https://github.com/alibaba/fastjson.git)
-[square/leakcanary(LeakCanary是Android的内存泄漏检测库。)](https://github.com/square/leakcanary.git)
+[square/okhttp](https://github.com/square/okhttp.git), 
+[square/retrofit](https://github.com/square/retrofit.git), 
+[bumptech/glide](https://github.com/bumptech/glide.git), 
+[JakeWharton/butterknife](https://github.com/JakeWharton/butterknife.git), 
+[alibaba/fastjson](https://github.com/alibaba/fastjson.git), 
+[square/leakcanary(LeakCanary是Android的内存泄漏检测库。)](https://github.com/square/leakcanary.git), 
 
 #### 常用库
-```
-google/flexbox-layout
-https://github.com/google/flexbox-layout.git
-
-alibaba/ARouter
-https://github.com/alibaba/ARouter.git
-
-alibaba/vlayout
-https://github.com/alibaba/vlayout.git
+[google/flexbox-layout](https://github.com/google/flexbox-layout.git), 
+[alibaba/ARouter](https://github.com/alibaba/ARouter.git)
+[alibaba/vlayout](https://github.com/alibaba/vlayout.git)
 
 orhanobut/logger
 https://github.com/orhanobut/logger.git
@@ -27,8 +23,6 @@ https://github.com/JakeWharton/timber.git
 
 daimajia/AndroidSwipeLayout
 https://github.com/daimajia/AndroidSwipeLayout.git
-```
-
 googlesamples/android-architecture
 https://github.com/googlesamples/android-architecture.git
 
