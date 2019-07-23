@@ -63,9 +63,6 @@ https://github.com/alibaba/ARouter.git
 alibaba/vlayout
 https://github.com/alibaba/vlayout.git
 
-alibaba/AndFix
-https://github.com/alibaba/AndFix.git
-
 ReactiveX/RxAndroid
 https://github.com/ReactiveX/RxAndroid.git
 
@@ -87,8 +84,6 @@ https://github.com/PhilJay/MPAndroidChart.git
 Kotlin/anko
 https://github.com/Kotlin/anko.git
 
-Tencent/tinker
-https://github.com/Tencent/tinker.git
 Tencent/MMKV
 https://github.com/Tencent/MMKV.git
 
@@ -246,3 +241,12 @@ https://github.com/florent37/MaterialViewPager.git
 
 bilibili/DanmakuFlameMaster
 https://github.com/bilibili/DanmakuFlameMaster.git
+
+
+#### 热修复
+
+alibaba/AndFix
+https://github.com/alibaba/AndFix.git
+
+Tencent/tinker
+https://github.com/Tencent/tinker.git
