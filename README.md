@@ -4,8 +4,8 @@
 
 #### 必备库
 ```
-square/okhttp
-https://github.com/square/okhttp.git
+[square/okhttp](https://github.com/square/okhttp.git)
+
 square/retrofit
 https://github.com/square/retrofit.git
 bumptech/glide
