@@ -2,11 +2,44 @@
 
 ## 常用和参考的一些库
 
+#### 必备库
+```
+square/okhttp
+https://github.com/square/okhttp.git
+square/retrofit
+https://github.com/square/retrofit.git
+bumptech/glide
+https://github.com/bumptech/glide.git
+JakeWharton/butterknife
+https://github.com/JakeWharton/butterknife.git
+alibaba/fastjson
+https://github.com/alibaba/fastjson.git
+square/leakcanary(LeakCanary是Android的内存泄漏检测库。)
+https://github.com/square/leakcanary.git
+```
+#### 常用库
+```
+google/flexbox-layout
+https://github.com/google/flexbox-layout.git
+
+alibaba/ARouter
+https://github.com/alibaba/ARouter.git
+
+alibaba/vlayout
+https://github.com/alibaba/vlayout.git
+
+orhanobut/logger
+https://github.com/orhanobut/logger.git
+JakeWharton/timber
+https://github.com/JakeWharton/timber.git
+
+daimajia/AndroidSwipeLayout
+https://github.com/daimajia/AndroidSwipeLayout.git
+```
+
 googlesamples/android-architecture
 https://github.com/googlesamples/android-architecture.git
 
-google/flexbox-layout
-https://github.com/google/flexbox-layout.git
 
 google/ExoPlayer
 https://github.com/google/ExoPlayer.git
@@ -18,23 +51,10 @@ https://github.com/Solido/awesome-flutter.git
 flutter/plugins
 https://github.com/flutter/plugins.git
 
-square/okhttp
-https://github.com/square/okhttp.git
 
-square/retrofit
-https://github.com/square/retrofit.git
-
-square/leakcanary(LeakCanary是Android的内存泄漏检测库。)
-https://github.com/square/leakcanary.git
 
 square/dagger
 https://github.com/square/dagger.git
-
-bumptech/glide
-https://github.com/bumptech/glide.git
-
-JakeWharton/butterknife
-https://github.com/JakeWharton/butterknife.git
 
 Blankj/AndroidUtilCode
 https://github.com/Blankj/AndroidUtilCode.git
@@ -54,14 +74,7 @@ https://github.com/greenrobot/EventBus.git
 skylot/jadx(Dex to Java反编译器)
 https://github.com/skylot/jadx.git
 
-alibaba/fastjson
-https://github.com/alibaba/fastjson.git
 
-alibaba/ARouter
-https://github.com/alibaba/ARouter.git
-
-alibaba/vlayout
-https://github.com/alibaba/vlayout.git
 
 ReactiveX/RxAndroid
 https://github.com/ReactiveX/RxAndroid.git
@@ -96,13 +109,6 @@ https://github.com/hdodenhof/CircleImageView.git
 greenrobot/greenDAO
 https://github.com/greenrobot/greenDAO.git
 
-orhanobut/logger
-https://github.com/orhanobut/logger.git
-JakeWharton/timber
-https://github.com/JakeWharton/timber.git
-
-daimajia/AndroidSwipeLayout
-https://github.com/daimajia/AndroidSwipeLayout.git
 
 jfeinstein10/SlidingMenu
 https://github.com/jfeinstein10/SlidingMenu.git
