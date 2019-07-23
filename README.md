@@ -3,20 +3,12 @@
 ## 常用和参考的一些库
 
 #### 必备库
-```
-[square/okhttp](https://github.com/square/okhttp.git)
 
-square/retrofit
-https://github.com/square/retrofit.git
-bumptech/glide
-https://github.com/bumptech/glide.git
-JakeWharton/butterknife
-https://github.com/JakeWharton/butterknife.git
-alibaba/fastjson
-https://github.com/alibaba/fastjson.git
-square/leakcanary(LeakCanary是Android的内存泄漏检测库。)
-https://github.com/square/leakcanary.git
-```
+[square/okhttp](https://github.com/square/okhttp.git), [square/retrofit](https://github.com/square/retrofit.git)
+[bumptech/glide](https://github.com/bumptech/glide.git), [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife.git)
+[alibaba/fastjson](https://github.com/alibaba/fastjson.git)
+[square/leakcanary(LeakCanary是Android的内存泄漏检测库。)](https://github.com/square/leakcanary.git)
+
 #### 常用库
 ```
 google/flexbox-layout
