@@ -10,7 +10,8 @@
 [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife.git),<br> 
 [alibaba/fastjson](https://github.com/alibaba/fastjson.git), <br>
 [square/leakcanary](https://github.com/square/leakcanary.git): LeakCanary是Android的内存泄漏检测库。<br>
-[square/dagger](https://github.com/square/dagger.git)
+[square/dagger](https://github.com/square/dagger.git)<br>
+[Kotlin/anko](https://github.com/Kotlin/anko.git)<br>
 
 #### 常用库
 [google/flexbox-layout](https://github.com/google/flexbox-layout.git), <br>
@@ -24,7 +25,6 @@
 [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout.git) (下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架)<br>
 [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode.git)<br>
 [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git)<br>
-[Kotlin/anko](https://github.com/Kotlin/anko.git)<br>
 [Tencent/MMKV](https://github.com/Tencent/MMKV.git)<br>
 [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView.git)<br>
 [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO.git)<br>
