@@ -1,0 +1,116 @@
+GsonFormat
+GsonFormat 插件是用来将 JSON 字符串快速转化为 JavaBean 实体类的一个插件，免去了我们自己手写的过程。
+
+Android Parcelable code generator
+JavaBean 序列化代码生成插件，可以快速实现 Parcelable 接口，实现序列化。
+
+ADB WiFi Connect
+Android 开发，真机调试必不可少，但是总是通过连线进行调试会很不方便，所以我们可以使用无线的方式进行调试，会方便很多，只要保证手机和电脑在同一个局域网中即可。使用下面的命令即可远程连接到手机进行调试：
+
+Markdown Navigator
+MarkDown 文档编辑插件，开发中可以用来编辑 README 或是其他开发文档都很好用。
+
+Translation
+一个功能非常强大的翻译插件，支持的IDE也很多，具体请查看 Translation 的 GitHub 仓库
+
+Android Material Design Icon Generator
+Android Material Design Icon Generator 是一个自动生成 Material Design 风格的图标的插件，相对于插件 Android Drawable Importer 来说，个人更喜欢这个插件，个人觉得这个插件更好用一点。
+
+
+1.Material Theme UI
+Material Theme主题的AndroidStudio，非常好看的一个皮肤，有三种主题可以进行切换，有兴趣的试一试.
+下载地址：https://plugins.jetbrains.com/plugin/8006?pr=phpStor
+
+2.ECTranslation
+这是一个可以对AndroidStudio中的英文进行翻译的一个插件，以后看源码的时候，就不用再去查字典了，方便多了，也可自定义快捷键，具体的可查看其使用说明。
+下载地址：https://github.com/Skykai521/ECTranslation
+
+3. .ignore
+平时在AndroidStuido上使用Git或者svn的时候，上传时需要忽略掉一些不需要的文件时，就可以使用这个插件了，右击轻松忽略。
+
+4. Android Drawable Importer
+这个插件能够根据导入的图片，自动生成对应分辨率的图片，比如放入一张图片，他能够生成对应的mdpi,hdpi,xhdpi,xxhdpi,xxxhdpi分辨率的图片，并且当你需要删除一个图片的时候，可以连带的删除其他分辨率对应的图片，不用重复删除，具体的功能可以百度。
+下载地址：https://github.com/winterDroid/android-drawable-importer-intellij-plugin
+
+5. Codota
+搜索代码的插件，他的搜索源，不仅只有Github，而且还有知名博客和开发者网站，让你搜索一个东西，不用在找上半天；
+
+6. Findbugs
+看名字就知道是这个插件的作用了，它是一个静态分析工具，它检查类或者jar文件，将字节码和一组缺陷模式进行对比以发现可能的问题。有了静态分析工具，就可以在不实际运行程序的情况下对软件进行分析。不是通过分析类文件的形式或结构来确定程序的意图，而是通常使用Visitor模式来鉴别代码是否符合一些固定的规范。
+7. Dimen
+根据输入的像素来自动生成Android项目的dimen.xml文件,主要是为了适配国产Android TV盒子的各种分辨率。
+下载地址：https://github.com/succlz123/AndroidPixelDimenGenerator
+
+8. ButterKnifeZelezny
+运用注解方式，大大的简化了控件的绑定操作，摆脱了一直findviewbyid的噩梦啊，这个插件挺不错的，很方便。
+下载地址：https://github.com/avast/android-butterknife-zelezny
+
+10. Android Postfix Completion
+可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等，这个插件在原有的基础上增添了一些新的功能。
+
+12. ADB Idea
+可以方便的对APK进行安装，卸载，删除，清除等操作
+
+13. SelectorChapek for Android
+根据一定的规则命名图片，可以根据图片生成出对应的选择器xml，比如点击选择器以及按下等效果的选择。
+
+14. Lifecycle Sorter
+可以根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序
+
+15. Key Promoter
+当你用到某个功能的时候，此插件会提示出此功能的快捷键，方便刚接触AndroidStudio但不熟悉快捷键的小伙伴，如下，选择一个Java文件，右击重命名，然后右上角就会提示他的快捷键。
+
+16. LayoutFormatter
+此插件是XML格式化插件，自动排序，能够根据正确的排序顺序进行排序。
+
+17. AndroidProguardPlugin
+一键生成项目混淆代码插件，值得你安装~
+下载地址：https://github.com/zhonghanwen/AndroidProguardPlugin
+
+18.android-selector-intellij-plugin
+插件生成normal，press和按下水波纹颜色
+地址：https://github.com/importre/android-selector-intellij-plugin
+
+19 AndroidProguardPlugin
+混淆插件，可以自动生成对应的混淆文件
+
+20 SQLScout数据库查看插件
+这个AndroidStudio插件可以查看App中的数据库，但是需要购买，只有一天免费使用，下面有破解的方法
+官网：http://www.idescout.com/
+软件破解:http://www.cnblogs.com/tiantianbyconan/p/5972138.html
+21 folding-plugin
+layout文件夹分组
+
+22 Fireline Plugin
+360的一个产品，可以检测代码中
+
+APP安全检查
+代码规范检查
+内存泄露检查
+日志输出检查
+空指针检查
+多线程检查
+
+23 Alibaba Java Coding Guidelines
+阿里出的一个代码编写规范检测的插件。
+
+24 Exynap
+Exynap是一个Android Studio插件，可以帮助您立即
+查找和实现所需的代码
+
+25 AndroidSourceViewer
+可以在线查看 Android 和 Java 指定版本源码的 Android Studio 插件
+
+26 # SmallHelper-IDEA-Plugin
+Small插件化框架的方便的跳转插件
+
+
+
+
+
+
+
+
+
+
+
