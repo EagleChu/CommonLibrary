@@ -73,15 +73,6 @@
 [chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView.git)<br>
 
 
-
-#### Rx
-
-[trello/RxLifecycle](https://github.com/trello/RxLifecycle.git)<br>
-[kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples.git)<br>
-[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool.git)<br>
-[ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid.git)<br>
-[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool.git)<br>
-
 #### 权限
 [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher.git)<br>
 [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions.git)<br>
