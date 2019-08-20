@@ -10,7 +10,7 @@
 [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife.git),<br> 
 [alibaba/fastjson](https://github.com/alibaba/fastjson.git), <br>
 [square/leakcanary](https://github.com/square/leakcanary.git): LeakCanary是Android的内存泄漏检测库。<br>
-[square/dagger](https://github.com/square/dagger.git)<br>
+[google/dagger](https://github.com/google/dagger)<br>
 [Kotlin/anko](https://github.com/Kotlin/anko.git)<br>
 
 #### Rx
