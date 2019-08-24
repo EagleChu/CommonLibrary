@@ -114,6 +114,11 @@
 
 #### RecyclerView
 [yangchong211/YCRefreshView](https://github.com/yangchong211/YCRefreshView)
+[rubensousa/RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap)
+[wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+[lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
+[RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)
+[XRecyclerView/XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
 
 
 #### 其他库
